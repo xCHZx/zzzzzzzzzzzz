@@ -1,0 +1,11 @@
+{
+  "name": "ftf-tht-frontend",
+  "version": "1.0.0",
+  "description": "Take Home Test (Frontend) for Fulltimeforce by Carlos Jiménez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
